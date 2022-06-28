@@ -1,5 +1,5 @@
 # Click the below link to view the deployed website for the assignment
-
+    https://eastvantage-random-user.herokuapp.com/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
