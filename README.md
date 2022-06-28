@@ -30,12 +30,8 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
-
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
-
-you can visit this site and try which is deployed
-https://eastvantage-random-user.herokuapp.com/
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
@@ -82,5 +78,6 @@ Based on the gender, the gender indentification photo will render.
 ### Deployment
 Name : Ijaaz Ahamed
 Email : Ijaazijju1713@gmail.com
+
 you can visit this site and try which is deployed
 https://eastvantage-random-user.herokuapp.com/
