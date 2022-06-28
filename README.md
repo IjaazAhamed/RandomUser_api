@@ -1,6 +1,7 @@
 # Click the below link to view the deployed website for the assignment
     https://eastvantage-random-user.herokuapp.com/
-    
+#  Clone my Repo
+    https://github.com/IjaazAhamed/RandomUser_api
 # Getting Started with Create React App
 
 # create app by running command in the terminal
@@ -79,6 +80,7 @@ Based on the gender, the gender indentification photo will render.
 
 
 ### Deployment
-
+Name : Ijaaz Ahamed
+Email : Ijaazijju1713@gmail.com
 you can visit this site and try which is deployed
 https://eastvantage-random-user.herokuapp.com/
