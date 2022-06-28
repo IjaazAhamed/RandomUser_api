@@ -1,12 +1,15 @@
 # Click the below link to view the deployed website for the assignment
     https://eastvantage-random-user.herokuapp.com/
+    
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Run (npm init -y) in the terminal for the node modules and other packages to be installed.
+# create app by running command in the terminal
+npx create-react-app app-name --template typescript
 
-## Available Scripts
+# import axios for fetching data from API
+running command in the terminal npm i axios
 
+# Available Scripts
 In the project directory, you can run:
 
 ### `npm start`
@@ -63,6 +66,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 ### Advanced Configuration
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+
+# Features
+Displays the complete name , email and address from the results of the api provided
+Fetched data will be strored to local storage
+Have a Refresh button to refresh the component (strictly not page load) to fetch another user with the same endpoint.
+Based on the gender, the gender indentification photo will render.
+
 
 ### Deployment
 
