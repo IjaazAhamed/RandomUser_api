@@ -4,7 +4,7 @@
 # Getting Started with Create React App
 
 # create app by running command in the terminal
-npx create-react-app app-name --template typescript
+npx create-react-app app-name
 
 # import axios for fetching data from API
 running command in the terminal npm i axios
